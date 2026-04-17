@@ -1,1 +1,1 @@
-# Resume-Analyzer
+# AI Resume-Analyzer
